@@ -72,8 +72,5 @@ The system manages 20 specializations, each with a queue length of up to 5 patie
 - C++ Compiler (e.g., g++, Visual Studio)
 # Project Flowchart
 
-This project manages patient queues for different specializations. The following flowchart illustrates the process flow of the system:
-
-![Flowchart](https://www.edrawmax.com/app/ai-flowchart/?from=share&nativeId=5f6576d8402d4aef998e2e4248a31564&mode=flowchart&typeName=flowchart)
 
 Special thanks to Mostafa S. Ibrahim for his guidance and project inspiration.
