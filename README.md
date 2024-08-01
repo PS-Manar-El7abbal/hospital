@@ -1,4 +1,4 @@
-##Hospital managment system
+Hospital Management System
 
 OverviewThis project is a simple hospital management system implemented in C++.
 It allows users to manage patient queues for different specializations in a hospital.
